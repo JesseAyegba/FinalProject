@@ -4,3 +4,5 @@ JS
 SEO
 MFCC
 DOM
+SQL
+NoSQL
